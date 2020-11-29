@@ -1,31 +1,4 @@
-# JBDL-5
-
-# Docker Slides -> https://docs.google.com/presentation/d/1w4UCwwvQJw9vQe1ssCUPP55TblGOl3WhWrS1Q30kODw/edit?usp=sharing
-
-# Agenda for the next week (2nd Week):
-Intro to Spring / Spring Boot
-
-Creating a Web Services (Web App) using Spring Boot
-
-Creating REST/RESTful APIs (like /search API of Google)
-
-Intro to MySQL and JDBC
-
-Multithreading
-
-
-# Assignments/Tasks need to be done by next week (These are *pre-requisites*):
-
-Make yourself comfortable with basics of core Java (Useful links given below)
-
-Install and explore "Postman" (by hitting some APIs), study about JSON also (Useful links given below)
-
-Install Maven (Useful links given below)
-
-Install MySQL (including workbench) and try some commands(Creating table etc.) (Useful links given below)
-
-Study about REST APIs (GET, POST, PUT etc.) (Useful links given below)
-
+# Java Backend Development Training
 # Useful links:
 
 For REST APIs https://www.youtube.com/watch?v=xkKcdK1u95s&list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn (only first 7 videos of this playlist)
